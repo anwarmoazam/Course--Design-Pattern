@@ -41,3 +41,4 @@ channel.subscribe(user3);
 channel.publish('Dekho video aa gaya he');
 channel.unsubscribe(user1)
 channel.publish('to kaisa laga video aapko?')
+channel.publish('Hit Like')
